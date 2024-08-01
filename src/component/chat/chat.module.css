@@ -1,0 +1,16 @@
+.searchContainer {
+  display: flex;
+  gap: 8px;
+  background-color: #fff;
+  bottom: 0;
+}
+
+.messages {
+  overflow-y: scroll;
+  height: 90%;
+}
+
+.chatItem {
+  justify-content: flex-start;
+  gap: 8px;
+}
